@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+.jeden {
+    background-color: gray;
+    color: green;
+}
+.dwa {
+    background-color: yellow;
+    color: aqua;
+}
+.trzy {
+    background-color: red;
+    color: gray;
+}
+.cztery {
+    background-color: pink;
+    color: blue;
+}
+.piec {
+    background-color: aqua;
+    color: darkblue;
+}
+.szesc {
+    background-color: pink;
+    color: greenyellow;
+}
+.siedem {
+    background-color: darkred;
+    color: aqua;
+}
+.osiem {
+    background-color: yellow;
+    color: burlywood;
+}
+.dziewiec {
+    background-color: gray;
+    color: blue;
+}
